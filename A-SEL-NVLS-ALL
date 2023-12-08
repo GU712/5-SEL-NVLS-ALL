@@ -578,14 +578,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Vitória (2014) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1N-NVLS-LS-MTX/main/B28-NVLS-Vitoria-ALL</externallink>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Vitória (2014) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A6-SRS-Vitoria-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/xVjPz02XdrJlb0TpP50RK3KeABu.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7I1rmy27AqeCPmTEwcc6D5MPF88.jpg</fanart>
-<info>Assista a série Vitória. 
-[COLOR orange][B]NOVELAS[/B][/COLOR]
-[COLOR orange][B]01 TEMP - 208 EPs[/B][/COLOR]
-[COLOR orange][B]ANO - (2014)[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a novela: 
+[B]Vitória
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2014
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]208 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A trama segue três personagens centrais em busca de vingança. Priscila Schiller, líder de uma célula neonazista violenta. Artur, rapaz que está em busca de vingança contra seu próprio pai, que o rejeitou na infância por ter ficado paraplégico. 
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
