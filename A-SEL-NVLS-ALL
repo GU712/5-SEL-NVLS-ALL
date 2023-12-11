@@ -93,7 +93,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui a série  o desenho a novela: 
 [B]A Próxima Vítima
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1995
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1995
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 197 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A trama,é centrada em três perguntas: quem matou?, quem será a próxima vítima? e por quê?
@@ -152,16 +152,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Canavial de Paixões (2003) - BR - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Canavial de Paixões (2003) - BR - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A2-SRS-Canavial.Paixoes-BR-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/2xjeJD8Pxr2fiRnWHoMEyMAo28S.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jQ5OrRJ6jdag23JcILChHlvOLaf.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Canavial de Paixões
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 2003
-[COLOR orange]NOVELAS
-[COLOR orange]01 TEMPs - 116 EPs
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2003
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]116 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Teresa faz de tudo para manter sua família afastada da família Santos, mas isso não vai impedir que seu filho Paulo se apaixone pela filha de Débora, a bela Clara.
 [/COLOR]</info>
 </channel>
@@ -502,16 +502,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Verão 90 (2019) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Verão 90 (2019) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A1-SRS-Verao.90-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/5gmXrKIBgcJEBwBPzOeCMDgemzh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cs4YATUGz7WDlPZ6l8bQehpe70I.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Verão 90
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO - 2019
-[COLOR orange]NOVELAS
-[COLOR orange]01 TEMP - 154 EPs
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2019
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]154 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Com o fim do Patotinha Mágica, Manuzita e os irmãos João e Jerônimo se separam. Em 1990 o destino resolve agir novamente.
 [/COLOR]</info>
 </channel>
@@ -527,7 +527,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui a novela: 
 [B]Vida Dupla
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2011
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2011
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]150 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O que acontece quando o destino muda a vida de uma mulher, diante da decisão mais difícil de tomar? Quando a vida te sorri e depois joga com seus sentimentos, estará vivendo em uma “Vida Dupla”
@@ -545,7 +545,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui a novela: 
 [B]Vitória
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2014
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2014
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]208 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A trama segue três personagens centrais em busca de vingança. Priscila Schiller, líder de uma célula neonazista violenta. Artur, rapaz que está em busca de vingança contra seu próprio pai, que o rejeitou na infância por ter ficado paraplégico. 
@@ -563,7 +563,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR white]Assista aqui a novela: 
 [B]Viver a Vida
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2009
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2009
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]209 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Luciana e Helena são duas supermodelos com personalidades completamente opostas:  O destino delas muda quando Helena se envolve com Marcos, pai de Luciana.
