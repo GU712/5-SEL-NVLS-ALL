@@ -224,7 +224,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Erkenci Kus (2018) - LEG - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Erkenci Kus (2018) - LEG - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/B2-SRS-Erkenci%20Kus-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/q3W3WBoprwN4Nru8BQAOTlN0CIO.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/exiRndn4neJWJ631gh8bjjSsL42.jpg</fanart>
@@ -235,6 +235,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]55 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma jovem sonhadora de um bairro pobre de Istambul, sob a pressão de sua família para encontrar um emprego estável, começa a trabalhar na agência de publicidade que trabalha sua irmã mais velha.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Êta Mundo Bom! (2016) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A20-SRS-Eta.Mundo.Bom-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/gAbt0tV2Z0z2zSYEjDzhsyy74d7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wlLvwnRKy0EMzKzbI2Foo9Koetn.jpg</fanart>
+<info>[COLOR white]Assista aqui a novela: 
+[B]Êta Mundo Bom!
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2016
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]190 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Candinho foi separado da mãe logo após seu nascimento e acolhido por um casal dono de uma fazenda. Mas quando cresce, Candinho é expulso por se apaixonar pela primogênita, Filomena. Candinho segue para a capital em busca da mãe biológica.
 [/COLOR]</info>
 </channel>
 </channels>
