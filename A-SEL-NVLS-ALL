@@ -367,14 +367,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Os Mutantes - Caminhos do Coração (2008-2009)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1N-NVLS-LS-MTX/main/B20-NVLS-Os.Mutantes.Caminhos.Corasao-MTX</externallink>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Mutantes: Caminhos do Coração (2008) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A15-SRS-Os.Mutantes.Caminhos.Corasao-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/ZEFHYcF7lpqaE7mUnAWlB450SR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/k1VSxkUqEfZycSXIqzXam59V8OS.jpg</fanart>
-<info>Assista a série Os Mutantes - Caminhos do Coração. 
-[COLOR orange][B]NOVELAS[/B][/COLOR]
-[COLOR orange][B]03 TEMPS - 240 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2008 a 2009[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a novela: 
+[B]Os Mutantes: Caminhos do Coração
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2008
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]242 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em um mundo tomado por um surto macabro, povoado por humanos superpoderosos criados por um cientista louco, uma luta entre o bem e o mal é iniciada após uma profecia que pode levar ao fim de tudo.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -385,16 +389,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Pantanal (1990) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Pantanal (1990) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A14-SRS-Pantanal.OLD-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/yxBYVTjGLKlPMe2rf3doNvQTkTi.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1RpLbrN6NN0ksmp2cAqmaoqZwvP.jpg</fanart>
 <info>[COLOR white]Assista aqui a novela: 
 [B]Pantanal
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1990
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]185 EPs
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]223 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]José Leôncio, um peão de comitiva que chegou com o Pai Joventino ao Pantanal, onde compraram uma fazenda e começaram a criar gado de corte. José Leôncio e seu pa
 [/COLOR]</info>
 </channel>
