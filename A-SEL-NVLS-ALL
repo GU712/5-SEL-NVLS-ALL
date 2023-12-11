@@ -486,13 +486,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Terra Nostra (1999)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1N-NVLS-LS-MTX/main/B16-NVLS-Terra.Nostra-MTX</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gd30s8iy2ya7vUZCx75ygjVOjLx.jpg</thumbnail>
-<fanart>https://imagem.natelinha.uol.com.br/original/terranostra_7606657af48cc82cb619ba3a8b2e4c52e9b150bf.jpeg</fanart>
-<info>Assista a Novela Terra Nostra. 
-[COLOR orange][B]NOVELAS[/B][/COLOR]
-[COLOR orange][B]ANO 1999 - 150 EPs[/B][/COLOR]</info>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Terra Nostra (1999) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A10-SRS-Terra.Nostra-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/thkRCi1qRJq5scAGg4luO8k1C18.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yf6KVaKHBwTmmsmLHt6aXPKq9Mf.jpg</fanart>
+<info>[COLOR white]Assista aqui a série  o desenho a novela: 
+[B]Terra Nostra
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1999
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]221 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A história da formação da sociedade brasileira do início do século XX a partir do romance de dois jovens italianos, Giuliana e Matteo, que se conhecem em 1894 a bordo de um navio que transporta imigrantes para trabalhar no Brasil.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
