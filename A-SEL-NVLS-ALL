@@ -423,19 +423,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]Presença de Anita (2001)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1N-NVLS-LS-MTX/main/B14-NVLS-Presensa.Anita-MTX</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/9pZVwE2UrjO5vZT0bJ2Vv5ufLJA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tcaVTsDVi4pYf7aT8x0yBV9Q770.jpg</fanart>
-<info>Assista a Novela Presença de Anita. 
-[COLOR orange][B]NOVELAS[/B][/COLOR]
-[COLOR orange][B]ANO 2001 - 016 EPs[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "Q"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -457,6 +444,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]440 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um colégio para filhos de gente rica e poderosa. Conheceremos suas regras e seus estudantes . Surgem amizades, ódios, amores, lealdade e traições enquanto eles enfrentam conflitos, ciúmes e disputas de poder. Surpreendentemente os garotos descobrirão que, em meio a suas irreconciliáveis diferenças, todos têm um ponto em comum: seu amor pela música.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Roque Santeiro (1985) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A12-SRS-Roque.Santeiro-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/rtNRUE7oqkvmPIrS69CsE0CL7u3.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/u1aeiYydw9q1GnPiFkQ416Lzh55.jpg</fanart>
+<info>[COLOR white]Assista aqui a novela: 
+[B]Roque Santeiro
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1985
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]209 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em Asa Branca, os moradores vivem em função dos supostos milagres de Roque Santeiro, que teria morrido como mártir, mas reaparece anos depois, ameaçando o poder das autoridades.
 [/COLOR]</info>
 </channel>
 </channels>
