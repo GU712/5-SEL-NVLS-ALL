@@ -230,10 +230,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/exiRndn4neJWJ631gh8bjjSsL42.jpg</fanart>
 <info>[COLOR white]Assista aqui a novela: 
 [B]Erkenci Kus
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]LEG - INCOMPLETA
-[COLOR orange]ANO - 2018
-[COLOR orange]NOVELA
-[COLOR orange]01 TEMPs - 55 EPs
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]LEG - INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2018
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]55 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma jovem sonhadora de um bairro pobre de Istambul, sob a pressão de sua família para encontrar um emprego estável, começa a trabalhar na agência de publicidade que trabalha sua irmã mais velha.
 [/COLOR]</info>
 </channel>
@@ -246,13 +246,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Fera Radical (1988)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1N-NVLS-LS-MTX/main/B8-NVLS-Fera.Radical-MTX</externallink>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Fera Radical (1988) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A19-SRS-Fera.Radical-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/vTtotYELYLQfy6Hd7ITwYRc2l12.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hzReL3jCfSQIcJ1b5FvRPeowWr4.jpg</fanart>
-<info>Assista a Novela Fera Radical. 
-[COLOR orange][B]NOVELAS[/B][/COLOR]
-[COLOR orange][B]ANO 1988 - 203 EPs[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a novela: 
+[B]Nomealvo
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1988
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]203 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Após o extermínio de sua família, Claudia retorna à sua cidade natal disposta a se vingar. Ao se infiltrar nos negócios dos suspeitos do crime, vê seus planos comprometidos pela paixão.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -279,13 +284,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Kubanacan (2003)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1N-NVLS-LS-MTX/main/B9-NVLS-Kubanacan-MTX</externallink>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Kubanacan (2003) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A18-SRS-Kubanacan-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/zIiN7yWBFHninroaDEX3LxFoRB2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/xjQM1fXg9HViSfaZOqICOKqdvmQ.jpg</fanart>
-<info>Assista a Novela Kubanacan. 
-[COLOR orange][B]NOVELAS[/B][/COLOR]
-[COLOR orange][B]ANO 2003 - 227 EPs[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a novela: 
+[B]Kubanacan
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2003
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]227 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Kubanacan é uma ilha paradisíaca que sofre inúmeras reviravoltas com a chegada de Esteban, um homem ferido e sem memória.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -297,20 +307,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "M"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<channels>
-<channel>
-<name>[COLOR white][B]Malhação (1995-2020)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1N-NVLS-LS-MTX/main/B24-NVLS-MALHASAO-MTX</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/hTDsUXq3jHWdTBlKpnjb6XLADfm.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/xAf6q9o0A2PbYigfsHDi3QUgZdF.jpg</fanart>
-<info>Assista a série Malhação. 
-[COLOR orange][B]NOVELAS[/B][/COLOR]
-[COLOR orange][B]27 TEMPS - 6.203 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 1995 a 2020[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
