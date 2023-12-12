@@ -46,20 +46,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Araguaia (2010) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1N-NVLS-LS-MTX/main/B29-NVLS-Araguaia-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/r4ytxOihgeez1Ad78TSmUfqvVQN.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/bwzgRyya5XTOLdK9AlSXYHjG1gt.jpg</fanart>
-<info>Assista a série Araguaia. 
-[COLOR orange][B]NOVELAS[/B][/COLOR]
-[COLOR orange][B]01 TEMP - 166 EPs[/B][/COLOR]
-[COLOR orange][B]ANO - 2010[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR white][B]A Favorita (2008)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B1N-NVLS-LS-MTX/main/B1-NVLS-A%20Favorita-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/7KXIqFyn8SzzfYYWpPiqsihMBrq.jpg</thumbnail>				
@@ -115,19 +101,42 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Araguaia (2010) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A24-SRS-Araguaia-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/r4ytxOihgeez1Ad78TSmUfqvVQN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/bwzgRyya5XTOLdK9AlSXYHjG1gt.jpg</fanart>
+<info>[COLOR white]Assista aqui a novela: 
+[B]Araguaia
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2010
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]166 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Ao descobrir que está marcado para morrer devido a uma maldição feita a seus antepassados, Solano inicia, com o apoio de Estela, uma jornada de revelações sobre suas origens.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "B"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 <channels>
 <channel>
-<name>[COLOR white][B]Balacobaco (2012)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1N-NVLS-LS-MTX/main/B7-NVLS-Balacobaco-MTX</externallink>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Balacobaco (2012) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A23-SRS-Balacobaco-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/luG1lg9hhHM1grafeT5RlkB9cmo.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/z2qOo8A0GgKsp192IhZqsGhM3oz.jpg</fanart>
-<info>Assista a Novela Balacobaco. 
-[COLOR orange][B]NOVELAS[/B][/COLOR]
-[COLOR orange][B]ANO 2012 - 163 EPs[/B][/COLOR]</info>
+<info>[COLOR white]Assista aqui a novela: 
+[B]Balacobaco
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2012
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]163 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Isabel é uma arquiteta bem-sucedida que vê sua vida desmoronar de uma hora para outra. Ela descobre que Danilo, seu marido, é viciado em jogos de azar e perdeu tudo o que o casal tinha. 
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
