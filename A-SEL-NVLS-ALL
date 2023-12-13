@@ -20,19 +20,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Alma Gêmea (2005)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B1N-NVLS-LS-MTX/main/B3-NVLS-Alma.Gemea-MTX</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/eiWxoPVgHGZEDbRDql8r76kfmqh.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/k7Lu6kOdDByuxUwzb9VRYzKVr3A.jpg</fanart>
-<info>Assista a Novela Alma Gêmea. 
-[COLOR orange][B]NOVELAS[/B][/COLOR]
-[COLOR orange][B]ANO 2005 - 227 EPs[/B][/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR white][B]A Favorita (2008)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/B1N-NVLS-LS-MTX/main/B1-NVLS-A%20Favorita-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/7KXIqFyn8SzzfYYWpPiqsihMBrq.jpg</thumbnail>				
@@ -84,6 +71,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Assista a Novela A Viagem. 
 [COLOR orange][B]NOVELAS[/B][/COLOR]
 [COLOR orange][B]ANO 1994 - 167 EPs[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Alma Gêmea (2005) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A26-SRS-Alma.Gemea-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/eiWxoPVgHGZEDbRDql8r76kfmqh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/k7Lu6kOdDByuxUwzb9VRYzKVr3A.jpg</fanart>
+<info>[COLOR white]Assista aqui a novela: 
+[B]Alma Gêmea
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2005
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]227 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Quando Rafael, um botânico que cria rosas, e Luna, uma jovem bailarina, se conhecem, é amor à primeira vista. Em poucos dias, eles se casam e logo têm um filho. Rafael presenteia a mulher com uma rosa branca preparada para ela – a rosa Luna 
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
