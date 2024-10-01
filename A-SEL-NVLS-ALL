@@ -57,7 +57,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Força do Querer (2017) - COMPLETA[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS4[COLOR yellow] -> [COLOR white]A Força do Querer (2017) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/A48-SRS-LS4-A.Forsa.do.Querer.2017-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/4y7OiZU8qKTAfAas6imvk0AfPXt.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/s5oglGwNW3WJRJywRezWT9swRIu.jpg</fanart>
@@ -514,6 +514,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]328 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A luta pela liberdade e contra a opressão são o tema central deste folhetim que narra a história dos irmãos Coragem: João, Jerônimo e Duda, na cidade de Coroado.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Irmãos Coragem (1995) - INCOMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/A49-SRS-Irmaos.Coragem.1995-ALL</externallink>
+<thumbnail>https://i.imgur.com/mH9ZSAZ.jpg</thumbnail>
+<fanart>https://i.imgur.com/ERhr8VN.jpg</fanart>
+<info>[COLOR white]Assista aqui a novela: 
+[B]Irmãos Coragem
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1995
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 155 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Na fictícia cidade de Coroado, João encontra um enorme diamante. Por causa disso, os três irmãos passam a ser perseguidos pelo poderoso coronel Pedro Barros, dono de quase todos os garimpos da região. 
 [/COLOR]</info>
 </channel>
 </channels>
