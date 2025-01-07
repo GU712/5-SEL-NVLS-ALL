@@ -66,17 +66,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Desejo (1990) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/B1-SRS-Desejo-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/aqjPjIrGl3gVM2BVj5q7SGV9pfV.jpg</thumbnail>
+<name>[COLOR white][B]Desejo (1990) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/B01-SRS-Desejo.1990-ALL</externallink>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/m7PRmak5cwslkGYpqzpULSxAHTs.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Desejo
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]1990
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1990
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]17 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]A história de amor que levou ao assassinato de um dos maiores escritores brasileiros: Euclides da Cunha.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 17 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]A história de amor que levou ao assassinato de um dos maiores escritores brasileiros: 
+Euclides da Cunha.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
