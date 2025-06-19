@@ -251,17 +251,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Mad Maria (2005) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/B11-SRS-Mad.Maria.2005-ALL</externallink>
+<name>[COLOR white][B]Mad Maria (2005) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/B011-SRS-Mad.Maria.2005-ALL</externallink>
 <thumbnail>https://i.imgur.com/v4xlMB8.jpg</thumbnail>
 <fanart>https://i.imgur.com/xDjOC8p.jpg</fanart>
-<info>[COLOR white]Assista aqui a mini-série: 
+<info>[COLOR white]Assista aqui a série: 
 [B]Mad Maria
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2005
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 35 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]1911 na Amazônia, onde 20 mil trabalhadores de 50 nacionalidades constroem a Estrada de Ferro Madeira-Mamoré. É lá que o barco da pianista Consuelo sofre um naufrágio que mata seu marido, Alonso, e a deixa perdida na selva.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]1911 na Amazônia, onde 20 mil trabalhadores de 50 nacionalidades constroem a Estrada 
+de Ferro Madeira-Mamoré. É lá que o barco da pianista Consuelo sofre um naufrágio que mata seu marido, Alonso.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
