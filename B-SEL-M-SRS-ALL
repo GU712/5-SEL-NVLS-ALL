@@ -21,17 +21,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Casa das Sete Mulheres (2003) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/B4-SRS-A.Casa.Das.Sete.Mulheres-ALL</externallink>
+<name>[COLOR white][B]A Casa das Sete Mulheres (2003) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/B004-SRS-A.Casa.Das.Sete.Mulheres.2003-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/jhMEYknTrAKgjsxQQpSNafKU31V.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mJswZjOxpIg9lH3wiDXGPm6FYxG.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]A Casa das Sete Mulheres
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2003
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2003
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]51 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]As mulheres da família de Bento Gonçalves vivem as dificuldades e os dramas da guerra durante o conflito dos Farrapos.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 51 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]As mulheres da família de Bento Gonçalves vivem as dificuldades e os dramas 
+da guerra durante o conflito dos Farrapos.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -39,7 +43,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]A Muralha (2000) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<name>[COLOR white][B]A Muralha (2000) - COMPLETA[COLOR yellow] -> [COLOR orange]LS10[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/B009-SRS-A.Muralha.2000-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/aF9Grbr449kXxvLsfBYXxMIKik.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/qpyqwN7E9QNP68zg5H2QJmoVPqG.jpg</fanart>
