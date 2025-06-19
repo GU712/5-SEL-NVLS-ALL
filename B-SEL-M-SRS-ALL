@@ -39,17 +39,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]A Muralha (2000) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/B9-SRS-A.Muralha.2000-ALL</externallink>
+<name>[COLOR white][B]A Muralha (2000) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/B009-SRS-A.Muralha.2000-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/aF9Grbr449kXxvLsfBYXxMIKik.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/qpyqwN7E9QNP68zg5H2QJmoVPqG.jpg</fanart>
-<info>[COLOR white]Assista aqui a mini-série: 
-[B]Nomealvo
+<info>[COLOR white]Assista aqui a série: 
+[B]A Muralha
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2000
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ÉPICOS
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 51 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Um século depois da chegada de Pedro Álvares Cabral ao Brasil, os bandeirantes paulistas se embrenhavam nas matas à procura de tesouros. 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um século depois da chegada de Pedro Álvares Cabral ao Brasil, os bandeirantes 
+paulistas se embrenhavam nas matas à procura de tesouros. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
