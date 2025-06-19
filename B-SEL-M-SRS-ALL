@@ -343,8 +343,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Riacho Doce (1990) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/B3-SRS-Riacho.Doce-ALL</externallink>
+<name>[COLOR white][B]Riacho Doce (1990) - COMPLETA[COLOR yellow] -> [COLOR orange]LS4[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/B003-SRS-Riacho.Doce.1990-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/jm6sAwYVWN0oODOsVNrXVMkqH1L.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/7pTM2EgtuxJGSuYYtsSPXZZF3z.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -352,8 +352,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1990
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]40 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em uma vila de pescadores, Vó Manuela, dotada de poderes místicos, fecha o corpo do seu neto, Nô, para o amor. Mas Eduarda muda completamente o destino do rapaz.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 40 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Em uma vila de pescadores, Vó Manuela, dotada de poderes místicos, fecha o corpo do 
+seu neto, Nô, para o amor. Mas Eduarda muda completamente o destino do rapaz.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
