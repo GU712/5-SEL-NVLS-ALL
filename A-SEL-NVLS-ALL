@@ -193,18 +193,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]América (2005) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/main/A25-SRS-America-ALL</externallink>
+<name>[COLOR white][B]América (2005) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/A025-SRS-America.2005-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/e7mbGz3xHjAf35jWuTUg0bb3mCa.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/cFOSqbDylWXARvJaOlerUcGgVS6.jpg</fanart>
 <info>[COLOR white]Assista aqui a novela: 
 [B]América
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2005
-[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]NOVELAS
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]205 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Movida pelo desejo de realizar seu grande sonho, uma brasileira atravessa a fronteira do México e chega ilegalmente aos EUA. A novela conta a história de amor de Sol, que teve uma infância miserável, e Tião, que quer ser um campeão de rodeios.
-[COLOR black].[/COLOR]
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2005
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]DRAMA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 203 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Movida pelo desejo de realizar seu grande sonho, uma brasileira atravessa a 
+fronteira do México e chega ilegalmente aos EUA.
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
@@ -1233,6 +1234,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMP - 85 EPs
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Maíra, uma jovem cega, será usada pela mãe para doar a medula para a irmã. O que seria um recomeço feliz vira uma perigosa jornada para ela sobreviver e ficar com seu grande amor.
 [COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Topíssima (2019) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/5-SEL-NVLS-ALL/refs/heads/main/A052-SRS-Topissima.2019-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/ea0tmZB4JvRqsqpcDK7kXdGpevR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kAoPi3i1x2LOySw6tMFexCpVdBb.jpg</fanart>
+<info>[COLOR white]Assista aqui a novela: 
+[B]Topíssima
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2019
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]COMÉDIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 145 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Sophia Alencar, uma empresária do Rio de Janeiro, e Antonio Ramos, um taxista que mora 
+em uma comunidade, vivem um romance improvável quando se envolvem em uma investigação policial.
+[/B][COLOR black].[/COLOR]
 Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
